@@ -1,22 +1,16 @@
 ## Hello welcome to my github profile!
 #### My name is Raphael Gonzaga, see a little more of my work
-<div align="center">
   
   <div align="center">
     
   <a href="https://github.com/raphael-phillip">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-phillip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphael-phillip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-phillip&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-phillip&layout=compact&langs_count=7&theme=dark"/>
     
 </div>
 
-
-  <a href="https://github.com/raphael-phillip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-phillip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-</div>
 
 <br/>
 

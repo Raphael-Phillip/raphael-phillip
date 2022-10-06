@@ -1,15 +1,21 @@
 ## Hello welcome to my github profile!
 #### My name is Raphael Gonzaga, see a little more of my work
 <div align="center">
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raphael-phillip&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Raphael Gonzaga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-phillip&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  
+  <div align="center">
+    
+  <a href="https://github.com/raphael-phillip">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-phillip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-phillip&layout=compact&langs_count=7&theme=dracula"/>
+    
 </div>
 
 
   <a href="https://github.com/raphael-phillip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-phillip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <br/>
@@ -43,16 +49,3 @@
   ![Snake animation](https://github.com/Raphael-Phillip/raphael-phillip/blob/main/.github/workflows/github-contribution-grid-snake.svg)
  
 </div>
-
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MatheusAlvarez&theme=gotham&hide_border=true&area=true)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
